@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @GalangAirlangga
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Enterprise Architecture
+- 👋 Hi, I'm @GalangAirlangga
+- 👀 I'm backend developer
+- 🌱 I'm now using laravel as framework in work
 - 📫 How to reach me galangairlangga1@gmail.com
 
 <!---
